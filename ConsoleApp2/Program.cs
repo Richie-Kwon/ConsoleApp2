@@ -23,12 +23,16 @@ namespace ConsoleApp2
             var msg = string.Format("{0},{1}", "Yera", "wins");
             
             // Boolean
-            var bln = true;
+            var bln = true; 
             Int32 number100 = 5;
             
             Console.WriteLine("${DateTime.Now.Date}!");
             Console.WriteLine("{0}", "Bye");
             Console.WriteLine("{0}", "Bye");
+            Console.ReadLine();
+
+            string result100 = (number100 % 2 == 0) ? "even" : "odd";
+            
         }
     }
 }
