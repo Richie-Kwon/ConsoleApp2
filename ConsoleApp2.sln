@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelse", "ifelse\ifelse.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetAPI", "DotnetAPI\DotnetAPI.csproj", "{3AB3927C-30F6-424C-9690-75BE860E0151}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{9F5B28E6-9388-4AEB-911E-74443DE0A3C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3AB3927C-30F6-424C-9690-75BE860E0151}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AB3927C-30F6-424C-9690-75BE860E0151}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AB3927C-30F6-424C-9690-75BE860E0151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5B28E6-9388-4AEB-911E-74443DE0A3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5B28E6-9388-4AEB-911E-74443DE0A3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5B28E6-9388-4AEB-911E-74443DE0A3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5B28E6-9388-4AEB-911E-74443DE0A3C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
