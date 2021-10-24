@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function2", "Function2\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureType", "StructureType\StructureType.csproj", "{ED1E8171-363F-4EE5-AA89-0CD99D2A2846}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{7E03BA3B-6216-4476-BB7A-EBF6EC0FC81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{ED1E8171-363F-4EE5-AA89-0CD99D2A2846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED1E8171-363F-4EE5-AA89-0CD99D2A2846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED1E8171-363F-4EE5-AA89-0CD99D2A2846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E03BA3B-6216-4476-BB7A-EBF6EC0FC81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E03BA3B-6216-4476-BB7A-EBF6EC0FC81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E03BA3B-6216-4476-BB7A-EBF6EC0FC81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E03BA3B-6216-4476-BB7A-EBF6EC0FC81B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
