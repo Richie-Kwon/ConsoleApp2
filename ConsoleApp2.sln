@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Field", "Field\Field.csproj", "{08215C3F-4AF1-4959-A22F-4EEE3AFB204A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{9FDC65A9-74B4-412F-9C8F-94209891B923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{08215C3F-4AF1-4959-A22F-4EEE3AFB204A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08215C3F-4AF1-4959-A22F-4EEE3AFB204A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08215C3F-4AF1-4959-A22F-4EEE3AFB204A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDC65A9-74B4-412F-9C8F-94209891B923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDC65A9-74B4-412F-9C8F-94209891B923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDC65A9-74B4-412F-9C8F-94209891B923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDC65A9-74B4-412F-9C8F-94209891B923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
