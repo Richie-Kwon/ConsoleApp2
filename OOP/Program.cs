@@ -19,7 +19,7 @@ namespace OOP
             // foreach (var i in data2)
             // {
             //     Console.WriteLine(i);
-            // }
+            // }  
               
             // int[] data2 = Array.Sort(data);
             
