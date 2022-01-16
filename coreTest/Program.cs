@@ -10,4 +10,4 @@ namespace coreTest
             Console.WriteLine("build with runtime");
         }
     }
-} 
+}      
